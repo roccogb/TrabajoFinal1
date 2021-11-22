@@ -1,0 +1,37 @@
+
+html{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    
+
+    color: blue;
+    text-align: left;
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    height: 15px;
+}
+
+h3{
+    color:blue;
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    height: 15px;
+}
+p{
+
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    height: 15px;
+}
+
